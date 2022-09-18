@@ -11,3 +11,6 @@ public class WebClientChuckNorrisApplication {
 	}
 
 }
+
+
+// *** Damit wir in unserem Back-End die API ansprechen können, nutzen wir die > WebClient
